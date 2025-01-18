@@ -1,0 +1,109 @@
+.contact-container{
+	padding:120px;
+	display:grid;
+	grid-template-columns:auto auto;
+}
+
+.devider{
+	border-right:2px solid lightgray;
+}
+
+.contact-form{
+	padding:0 100px;
+	display:flex;
+	flex-direction:column;
+	gap:20px;
+}
+
+.contact-form > input, textarea{
+	padding:12px;
+	font-size:20px;
+	
+}
+
+.contact-Info{
+	display:flex;
+	flex-direction:column;
+	gap:28px;
+}
+
+.contact-info h3{
+	font-size:32px;
+}
+
+ .contact-info p{
+	 font-size:24px;
+	 color:gray;
+     margin-top:12px;
+ }
+ 
+   button{
+	   padding:16px 20px;
+	   border:none;
+	   background-color:#000;
+	   color:#fff;
+	   font-size:20px;
+   }
+   
+   button:hover{
+	   opacity:80%;
+   }
+   .contact-container h1{
+       color:gray;
+   }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	 
+
+
+
+
+
+
+
+
+
+
+
+[
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
